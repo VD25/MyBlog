@@ -1,0 +1,33 @@
+img{
+  width:200px;
+  height:100px;
+}
+body{
+  text-align:center;
+  background-color:cyan;;
+}
+h1{
+  text-shadow:0.2px 0.2px;
+  color:cyan;
+}
+p{
+  font-size:19px;
+}
+section{
+  background-image: linear-gradient(lightblue,purple)
+  
+}
+body:hover{
+    background-color:cyan;
+}
+ul{
+    font-size:20px;
+}
+#welcome{
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Langar&display=swap" rel="stylesheet">
+}
+h1{
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Langar&display=swap" rel="stylesheet">
+}
